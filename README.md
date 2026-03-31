@@ -1,4 +1,4 @@
-# Hi, I'm Sarika Singh 👋 
+# Hi, I'm Sarika Singh 
 
 ### Software Development Engineer | Technical Content Specialist | C++ & SQL Expert
 *Based in Noida, India*
@@ -9,30 +9,31 @@ Passionate about education, I am currently **building an EdTech platform** dedic
 
 ---
 
-## 🚀 Professional Highlights
+## Professional Highlights
 - **SDE Experience:** Former Software Development Engineer at IT Partner LLC, focused on scalable solutions.
 - **Problem Solver:** 5-Star Gold Badge on **HackerRank** for C++ and SQL. 4-star on Leetcode.
 - **Technical Educator:** Developing the "51-Day C-Level Master" series to help students master C programming from scratch.
-### 🛠 Tech Stack & Expertise
+### Tech Stack & Expertise
 
 | Category | Skills |
 | :--- | :--- |
-| 💻 **Primary Languages** | **C++ (Advanced/STL)**, **SQL (5-Star HackerRank)**, C, Python |
-| 🧠 **Core Computer Science** | **Data Structures & Algorithms (DSA)**, Operating Systems, DBMS, Computer Networks |
-| ⚙️ **System Programming** | Memory Management, Multi-threading, Concurrency, Low-level Optimization |
-| 🌐 **Web & Tools** | JavaScript, Git, GitHub, VS Code, Linux/Bash |
-| 📚 **EdTech Focus** | Technical Content Creation, Curriculum Designing, Problem Setting |
+| **Primary Languages** | **C++ (Advanced/STL)**, **SQL (5-Star HackerRank)**, C, Python |
+| **Core Computer Science** | **Data Structures & Algorithms (DSA)**, Operating Systems, DBMS, Computer Networks |
+| **System Programming** | Memory Management, Multi-threading, Concurrency, Low-level Optimization |
+| **Web & Tools** | JavaScript, Git, GitHub, VS Code, Linux/Bash |
+| **EdTech Focus** | Technical Content Creation, Curriculum Designing, Problem Setting |
 ---
 
- 🛠 Currently Working On
+  Currently Working On
 - **[Custom Memory Manager]:** Building a memory pool allocator in C++ to optimize allocation performance.
 - **[EdTech Platform Project]:** Architecting a platform for high-quality technical tutorials and CS resources.
 - **GATE 2026:** Strengthening core engineering concepts through rigorous daily problem-solving.
 
 ---
 
-📫 Let's Connect
+Let's Connect
 LinkedIn:** [https://www.linkedin.com/in/sarika-singh-796235207/]
+
 Email:** [sarikasingh4937@gmail.com]
 
 Focus on the process, and the results will follow.
