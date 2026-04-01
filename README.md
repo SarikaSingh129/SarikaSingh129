@@ -32,8 +32,8 @@ Passionate about education, I am currently **building an EdTech platform** dedic
 ---
 
 Let's Connect
-LinkedIn:** [https://www.linkedin.com/in/sarika-singh-796235207/]
+LinkedIn: [https://www.linkedin.com/in/sarika-singh-796235207/]
 
-Email:** [sarikasingh4937@gmail.com]
+Email: [sarikasingh4937@gmail.com]
 
 Focus on the process, and the results will follow.
