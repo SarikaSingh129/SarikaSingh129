@@ -1,28 +1,57 @@
-Hi, I'm Sarika
-Java Backend Developer | System Design Enthusiast | DSA Specialist
+# Hi, I'm Sarika 
 
-Based in Noida, India
+**Java Backend Developer** | Spring Boot · REST APIs · MySQL · DSA
 
-I am a Computer Science Engineer focused on building scalable backend systems and high-performance applications. With a strong foundation in Data Structures, Algorithms, and Core Computer Science, I specialize in designing efficient, reliable, and maintainable server-side architectures.
+📍 Noida, India · 📫 sarikasingh4937@gmail.com · [LinkedIn](https://www.linkedin.com/in/sarika-singh-796235207/)
 
-I have hands-on experience in system-level programming, including memory management, concurrency, and performance optimization, which enables me to write backend systems that are both robust and efficient.
+---
 
-Professional Highlights
-Backend Development Focus: Building RESTful APIs and scalable backend systems using Java and modern backend frameworks
-Strong Problem-Solving Skills: 5-Star Gold Badge on HackerRank (C++ & SQL), 4★ on LeetCode
-System-Level Expertise: Experience with memory management, multithreading, and low-level optimization
-Software Development Experience: Former Software Development Engineer at IT Partner LLC, working on scalable solutions
-Tech Stack & Expertise
-Category	Skills
-Backend Development	Java, Spring Boot (learning/working), REST APIs, Microservices
-Programming Languages	C++ (Advanced/STL), SQL, C, Python
-Core Computer Science	Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks
-System Design	Scalability, Concurrency, Memory Optimization, Low-level Design
-Tools & Platforms	Git, GitHub, Linux, VS Code
-Currently Working On
-Java Backend Development: Building scalable APIs and exploring the Spring Boot ecosystem
-Custom Memory Manager (C++): Designing a high-performance memory pool allocator
-System Design: Improving understanding of distributed systems and backend architecture
-Let’s Connect
-LinkedIn: https://www.linkedin.com/in/sarika-singh-796235207/
-Email: sarikasingh4937@gmail.com
+## 🚀 About Me
+
+Computer Science Engineer focused on building scalable backend systems and reliable REST APIs.
+
+- 🔨 Currently building production-ready APIs with **Java + Spring Boot**
+- 🧠 Strong CS fundamentals — OS, DBMS, Computer Networks, Algorithms
+- ⚙️ Background in system-level programming — memory management, concurrency, performance optimization
+- 💬 I write backend systems that are efficient, maintainable, and built to scale
+
+---
+
+## 🛠️ Tech Stack
+
+| Area | Skills |
+|---|---|
+| **Backend** | Java, Spring Boot, REST APIs, Spring Security, JWT |
+| **Database** | MySQL, Spring Data JPA, Hibernate |
+| **Languages** | C++ (Advanced · STL), SQL, C, Python |
+| **CS Core** | Data Structures, Algorithms, OS, DBMS, Computer Networks |
+| **Tools** | Git, GitHub, Linux, Postman, VS Code |
+
+---
+
+## 📌 Featured Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| [Expense Tracker API](#) | Spring Boot · JWT · MySQL | Secure REST API with user auth and expense management |
+| [Student Management API](#) | Spring Boot · JPA · MySQL | Full CRUD with validation and exception handling |
+| [Custom Memory Manager](#) | C++ | High-performance memory pool allocator |
+
+---
+
+## 📊 DSA & Problem Solving
+
+- ⭐ **5-Star Gold Badge** on HackerRank (C++ & SQL)
+- 🟡 **4★ on LeetCode** — Arrays, DP, Trees, Graphs, Sliding Window
+- 400+ problems solved across platforms
+
+---
+
+## 📈 GitHub Stats
+
+![Sarika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+> *"I build what I understand and document what I build."*
