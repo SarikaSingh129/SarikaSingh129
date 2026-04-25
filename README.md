@@ -49,8 +49,8 @@ Computer Science Engineer focused on building scalable backend systems and relia
 
 ## 📈 GitHub Stats
 
-![Sarika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=github.com/SarikaSingh129&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=github.com/SarikaSingh129&layout=compact&theme=tokyonight&hide_border=true)
+![Sarika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SarikaSingh129&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SarikaSingh129&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
